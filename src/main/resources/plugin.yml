@@ -1,0 +1,6 @@
+name: CustomFish NoOneFish Mod
+version: ${project.version}
+main: lnwwaveza007.customfishnoonefishmod.CustomFishNoOneFishMod
+api-version: 1.16
+authors: [ lnwwaveza007 ]
+description: This is for Futurecraft
